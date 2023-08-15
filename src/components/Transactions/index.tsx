@@ -1,6 +1,6 @@
 import React, { useCallback } from "react";
 import { useCustomFetch } from "../../hooks/useCustomFetch"; // Adjust the path based on your folder structure
-import { SetTransactionApprovalParams } from "./path-to/SetTransactionApprovalParams";
+import { SetTransactionApprovalParams } from "./SetTransactionApprovalParams"; // Adjust the path correctly
 import { TransactionPane } from "./TransactionPane";
 import { SetTransactionApprovalFunction, TransactionsComponent } from "./types";
 
